@@ -14,8 +14,3 @@
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Coordonnées
-
-- **Site Web** : [https://maximlevesque.com](https://maximlevesque.com)
-- **LinkedIn** : [linkedin.com/maxim-levesque](https://www.linkedin.com/in/maxim-l%C3%A9vesque-641905291)
-- **Facebook** : [facebook.com/maxlevesque100](https://www.facebook.com/maxlevesque100/)
